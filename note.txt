@@ -1,0 +1,8 @@
+Hello Developer,
+
+We have finished our platform and have got the site running on <ip of web server>.
+
+We should have the error code information removed though as it should not have been pushed to prod!
+Our team will remove this ASAP.
+
+Best,
