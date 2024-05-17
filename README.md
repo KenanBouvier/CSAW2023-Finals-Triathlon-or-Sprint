@@ -13,8 +13,14 @@ user:ppXr5yGXe2g83X0
 
 ### FTP 128.238.66.77
 ```
+Has two users as stated below. 
+
 ftp_base:r5TgKiP18L1VwuX0K0JZEX7V4j31wh
+- Has note.txt
+
 ftp_dev:vOc!&6k(G;uNSqjQBt=M
+- Has ./frontend/files/
+- Has ./server/files
 ```
 
 # Writeup
